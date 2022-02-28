@@ -1,0 +1,11 @@
+name: Rainshine
+version: 1.0
+author: TheStraying11
+main: uk.studiolucia.rainshine.Rainshine
+api-version: 1.18
+description: Vote between rain, clear, day and night!
+commands:
+  rainshine:
+    description: Allows Voting On Weather and Time
+    usage: /rainshine <day, night, clear, rain, storm> OR /rainshine <accept, deny>
+    aliases: rs
